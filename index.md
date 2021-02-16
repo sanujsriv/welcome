@@ -27,13 +27,13 @@
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SARS-CoV-2 Case Study](https://colab.research.google.com/drive/1GNDl6JO10TCv2CtyeXCa6sRpI_FJF5rJ?usp=sharing)
 
 ---
 
