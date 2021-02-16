@@ -2,10 +2,15 @@
 
 ---
 ### Experience
+
 ### Education
+
 ### Skills
+
 ### Projects
+
 ### Certifications
+
 ### Talks
 
 
