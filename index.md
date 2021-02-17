@@ -5,18 +5,13 @@
              
 ### Education
 
-
-{% slider %}
-  [![alt text 1](image1.jpg)](/page/url)
-  [![alt text 2](image2.jpg)](/category/url)
-  [![alt text 3](image3.jpg)](http://example.com)
-{% endslider %}
-
 ### Projects
 
 ---
 [eCOSystem](https://github.com/sanujsriv/eCOSystem-MajorSSS)
-<img src="images/UserStoryTool/UST.PNG?raw=true"/>
+<img src="images/eCOSystem/Slide1.JPG?raw=true"/><br>
+<img src="images/eCOSystem/Slide2.JPG?raw=true"/> 
+
 ---
 
 [Graduate-Admission-Prediction](https://github.com/sanujsriv/Graduate-Admission-Prediction)
