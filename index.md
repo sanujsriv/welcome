@@ -26,10 +26,10 @@
 
 ---
 [UserStoryTool](http://example.com/)
-<img src="images/UserStoryTool/ClassDiagram.png.png?raw=true"/>
-<img src="images/UserStoryTool/FutureUserStory.png.png?raw=true"/>
-<img src="images/UserStoryTool/ManagerProfile.png.png?raw=true"/>
-<!-- img src="images/UserStoryTool/UserStoryToComplete.png?raw=true"/-->
+<img src="images/UserStoryTool/ClassDiagram.png?raw=true"/>
+<img src="images/UserStoryTool/FutureUserStory.png?raw=true"/>
+<img src="images/UserStoryTool/ManagerProfile.png?raw=true"/>
+<img src="images/UserStoryTool/UserStoryToComplete.png?raw=true"/>
 
 ---
 
