@@ -25,7 +25,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[UserStoryTool](http://example.com/)
 <img src="images/UserStoryTool/ClassDiagram.png.png?raw=true"/>
 <img src="images/UserStoryTool/FutureUserStory.png.png?raw=true"/>
 <img src="images/UserStoryTool/ManagerProfile.png.png?raw=true"/>
